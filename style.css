@@ -82,3 +82,6 @@ button{
   background-image: url(images/tlo2.jpg);  
     background-size: cover;
 }
+.linkiStopka a{
+   color:#fff;    
+}
